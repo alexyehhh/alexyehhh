@@ -1,95 +1,109 @@
 # 👋 Hi, I'm Alex Yeh
 
-Welcome to my GitHub! I'm a Computer Science graduate passionate about building impactful, user-focused technology. I enjoy working at the intersection of software engineering, product management, and AI-driven applications, with a focus on building scalable and user-centric systems.
+I'm a Computer Science graduate from UC Santa Cruz interested in building user-focused software, AI-powered applications, and products that solve real-world problems. My experience spans full-stack development, AI/LLM applications, data operations, and product development.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.S. in Computer Science from UC Santa Cruz
-- 💼 Graduate Engineer (Data Collection) at Qualitest, working on-site at Meta  
-- 🧠 Interested in Software Engineering, Product Management, and AI-powered products  
-- 🛠️ Experience building scalable full-stack applications and AI-driven systems  
-- 📈 Exploring LLM integration into real-world systems and decision-making workflows   
-- 🤝 Open to collaborating on projects and other future opportunities  
+- 🎓 B.S. in Computer Science, Honors in the Major, from UC Santa Cruz
+- 💻 Interested in Software Engineering, Product Management, and AI-powered products
+- 🧠 Interested in applying LLMs to real-world applications and workflows
+- 🛠️ Experience building full-stack applications and AI-driven systems
+- 🤝 Open to collaborating on software, AI, and product-focused projects
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-- Python, JavaScript, TypeScript, HTML, CSS, C, C++  
+Python, JavaScript, TypeScript, HTML, CSS
 
-**Frameworks & Libraries:**  
-- React, Node.js, Vite, Tailwind CSS, Bootstrap  
+**Databases & Frameworks:**  
+PostgreSQL, SQL, Redis/Valkey, React, Node.js, Bootstrap
 
-**Databases & Backend:**  
-- PostgreSQL, SQL, Supabase, Firebase, Redis/Valkey  
-
-**Tools & Platforms:**  
-- Git, GitHub, Docker, Vercel, Figma, LaTeX  
+**Web & Development Tools:**  
+Git, GitHub, Docker, Vercel, Firebase, Supabase, Figma, LaTeX
 
 **AI & LLMs:**  
-- Claude, ChatGPT, Gemini  
-- Prompt Engineering, LLM Application Development  
+Claude Code, Codex, Gemini, Prompt Engineering
 
-**Product Management:**  
-- Agile (Scrum), Jira  
+**Project Management:**  
+Jira, Agile (Scrum)
+
+---
+
+## 💼 Experience
+
+### 🍎 Apple | Health Study Moderator
+**Apple (via TEKsystems) | Sunnyvale, CA | Jul. 2026**
+
+- Configured and managed 100+ interconnected hardware and mobile test devices while preparing study environments
+- Diagnosed and resolved issues involving iOS devices, research software, and live data collection workflows
+- Executed data extraction scripts and transferred study data from devices using Apple's Gather data collection tool
+
+### ∞ Meta | Data Operations Technician
+**Meta Platforms (via QualityAI) | Fremont, CA | Apr. 2026 – Jun. 2026**
+
+- Managed AR/VR motion capture sessions for 100 participants supporting large-scale research efforts
+- Oversaw the successful collection and validation of 2,800 recordings for AI/ML training datasets
+- Debugged software and hardware issues in a fast-paced environment to maintain workflow efficiency
 
 ---
 
 ## 📌 Projects
 
-### 🍵 Notes of Matcha  
-**Tech:** React, TypeScript, Vite, Tailwind CSS, Supabase, Docker  
-- Built a full-stack matcha journal with secure per-user data isolation using PostgreSQL row-level security  
-- Designed relational database schema with triggers, cascading deletes, and automated functions  
-- Implemented authentication and session management  
-- Developed responsive UI with real-time filtering and keyboard navigation  
-- Deployed to production with CI workflows, environment configs, and schema migrations  
+### 🍵 Notes of Matcha
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Supabase, Docker
 
-🔗 Repo: https://github.com/alexyehhh/notes-of-matcha  
-🌐 Live: https://notes-of-matcha.vercel.app/  
+- Engineered a full-stack matcha journal with per-user data isolation using PostgreSQL row-level security policies
+- Designed a relational schema with cascading deletes, triggers, and automated database functions
+- Built responsive UI views with real-time filtering and keyboard navigation to improve usability
 
----
-
-### 📈 Impact of Generative AI on the Stock Market  
-**Tech:** Python, JavaScript, HTML, Claude API  
-- Built a simulated trading environment to evaluate AI-driven strategies  
-- Engineered prompt frameworks that convert user-defined rules into executable trading logic  
-- Developed trading bots that mimic realistic market behavior  
-- Created an interactive interface for tracking trades, performance, and insights  
-
-🔗 Repo: https://github.com/mrpg/llm-trading  
+🔗 [GitHub](https://github.com/alexyehhh/notes-of-matcha)  
+🌐 [Live Demo](https://notes-of-matcha.vercel.app/)
 
 ---
 
-### 🃏 Trading Card Game Tracker  
-**Tech:** JavaScript, React, Python, HTML, CSS  
-- Led a 6-person team using Agile (Scrum) to build a card collection management app  
-- Designed detailed card views to improve valuation clarity  
-- Built a profit calculator to analyze grading and resale decisions  
-- Implemented dynamic search and browsing features  
+### 📈 Impact of Generative AI on the Stock Market
+**Tech:** Python, JavaScript, HTML, Claude API
 
-🔗 Repo: https://github.com/alexyehhh/TCG_Tracker  
+- Simulated market data and trading activity to generate insights for evaluating automated strategies
+- Engineered prompt frameworks that translated user-defined trading rules into executable trading logic
+- Developed rule-based trading bots that simulated realistic market behavior for strategy evaluation
+
+🔗 [GitHub](https://github.com/mrpg/llm-trading)
+
+---
+
+### 🃏 Trading Card Game Tracker
+**Tech:** JavaScript, React, Python, HTML, CSS
+
+- Led a 6-person cross-functional team using Scrum to deliver a Pokémon trading card collection management application
+- Designed a card detail page that improved clarity when viewing card information and valuation data
+- Implemented dynamic card search and display features that improved usability for browsing collections
+
+🔗 [GitHub](https://github.com/alexyehhh/TCG_Tracker)
+
+---
+
+## 📜 Certifications
+
+- **IBM AI Product Manager Professional Certificate** — IBM & SkillUp via Coursera, April 2026
+- **Anthropic AI Fluency: Framework & Foundations Certification** — Anthropic, June 2026
+- **Anthropic Claude 101 Certification** — Anthropic, June 2026
+- **AWS Generative AI Applications Professional Certificate** — AWS via Coursera, March 2026
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: alex_yeh2@yahoo.com
-- 💼 LinkedIn: https://www.linkedin.com/in/alexyehhh 
-- 🌐 Portfolio: https://alexyehhh.github.io/portfolio/  
-
----
-
-## 📜 Certifications
-- IBM AI Product Manager Professional Certificate — Coursera  
-- AWS Generative AI Applications Professional Certificate — Coursera  
-- Machine Learning in Python Environment — Alison   
+- 📧 Email: alexpyeh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexyehhh)
+- 🌐 [Portfolio](https://alexyehhh.github.io/portfolio/)
 
 ---
 
 ## 🏈🏀 Fun Fact
 
-I am a big sports fan, especially football and basketball. I support the San Francisco 49ers and Golden State Warriors.
+I'm a big sports fan, especially football and basketball. My favorite teams are the San Francisco 49ers and Golden State Warriors.
